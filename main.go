@@ -1,4 +1,4 @@
-//to run the code: go run main.go
+//To run the code: go run main.go
 
 package main
 
